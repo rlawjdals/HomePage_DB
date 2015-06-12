@@ -8,6 +8,7 @@
 		</div>
 		<div>
 			<span>반갑습니다. 이건 새로운 Brach에서 작성한겁니다.</span>
+			<span>이번에도 Brach에서 작성한 내용입니다. </span>
 		</div>
 	</body>
 </html>

@@ -6,7 +6,8 @@
 		<div>
 			<span>안녕하세요</span>
 			<ul>
-
+				<li>마스터페이지 작성<li>
+				<li>깃이란 무엇인가.</li>
 			</ul>
 		</div>
 	</body>

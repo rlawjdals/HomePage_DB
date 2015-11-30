@@ -1,19 +1,4 @@
 <html>
-	<head>
-		<h1>안녕하세요</h1>
-	</head>	
-	<body>
-		<div>
-			<span>안녕하세요</span>
-			<ul>
-				<li>마스터페이지 작성<li>
-				<li>깃이란 무엇인가.</li>
-			</ul>
-		</div>
-		<div>
-			<span>반갑습니다. 이건 새로운 Brach에서 작성한겁니다.</span>
-			<span>이번에도 Brach에서 작성한 내용입니다. </span>
-		</div>
-	</body>
+	
 </html>
 

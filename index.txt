@@ -10,6 +10,7 @@
 		</header>
 		<ul>
 			<li>깃이란 ? </li>
+			<li>충돌</li>
 		</ul>		
 	</body>
 </html>

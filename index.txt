@@ -3,7 +3,6 @@
 		<title>
 			Git 소개
 		</title>
-		그냥 추가
 	</head>
 	<body>
 		<header>
